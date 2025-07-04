@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# VS Code project settings
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs or temporary files
+*.log
+*.tmp
+*.bak
+
+# macOS system files
+.DS_Store
